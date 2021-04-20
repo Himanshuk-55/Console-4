@@ -1,0 +1,7 @@
+C:\Users\himan\source\repos\ConsoleAppP4\ConsoleAppP4\bin\Debug\ConsoleAppP4.exe.config
+C:\Users\himan\source\repos\ConsoleAppP4\ConsoleAppP4\bin\Debug\ConsoleAppP4.exe
+C:\Users\himan\source\repos\ConsoleAppP4\ConsoleAppP4\bin\Debug\ConsoleAppP4.pdb
+C:\Users\himan\source\repos\ConsoleAppP4\ConsoleAppP4\obj\Debug\ConsoleAppP4.csproj.CoreCompileInputs.cache
+C:\Users\himan\source\repos\ConsoleAppP4\ConsoleAppP4\obj\Debug\ConsoleAppP4.exe
+C:\Users\himan\source\repos\ConsoleAppP4\ConsoleAppP4\obj\Debug\ConsoleAppP4.pdb
+C:\Users\himan\source\repos\ConsoleAppP4\ConsoleAppP4\obj\Debug\ConsoleAppP4.csprojAssemblyReference.cache
